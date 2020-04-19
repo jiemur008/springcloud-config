@@ -1,1 +1,2 @@
-config:123config
+config:
+  info:"master branch springcloud-config-dev"
